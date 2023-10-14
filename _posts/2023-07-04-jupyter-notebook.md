@@ -33,12 +33,13 @@ The plugin takes as input the path to the notebook, but it assumes the file exis
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/blog.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
-{% if notebook_exists == "true" %}
+{% assign notebook_exists = true %}
+{% if notebook_exists %}
     {% jupyter_notebook jupyter_path %}
 {% else %}
     <p>Sorry, the notebook you are looking for does not exist.</p>
 {% endif %}
 {:/nomarkdown}
+
 
 Note that the jupyter notebook supports both light and dark themes.
