@@ -24,7 +24,7 @@ group :jekyll_plugins do
     gem 'webrick'
     source "https://rubygems.org"
     gem "github-pages", "~> 228", group: :jekyll_plugins
-    gem 'jekyll-scholar', '~> LATEST_VERSION'
+    gem 'jekyll-scholar'
 
 end
 group :other_plugins do
