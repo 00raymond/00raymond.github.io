@@ -2,25 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+![Philippines](assets/img/flag1.png)  ![Scotland](assets/img/flag2.png)
+### -about me
 
-Write your biography herezczczczcz. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Raymond House, a current third-year at ![UCI Logo](assets/img/uci_logo.png)[University of California, Irvine](https://ics.uci.edu/), and I am working towards my BSc in Software Engineering minoring in Bioinformatics. I'm currently an undergraduate reseacher at the [School of Medicine](https://medschool.uci.edu/) as well as a back-end software engineer intern at [NeuroLeap](https://neuroleap.com/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my research, I primarily worked with ![Java Logo](assets/img/java_icon.png)Java and ![Kotlin Logo](assets/img/kotlin_icon.png)Kotlin to contribute to the development of a CNN-based android app designed to assist Glaucoma patients identify medicine bottle labels and expiration dates, under the supervision of [Prof. Dr. Ken Lin](https://www.faculty.uci.edu/profile/?facultyId=6458). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a back-end web developer at NeuroLeap, I designed multiple methods to handle a variety of essential API endpoints, such as user registration and email transaction processing, using ![Go Logo](assets/img/Go_logo.png)Golang for server-side logic and ![Vue Logo](assets/img/Vue_logo.png)Vue.js for front-end interactions.
+
+
+
+### -research interests
+
+I am very passionate about the intersection between 💻computer science and 🧬biotechnology, and I'm hoping to get involved in related bioinformatics research positions during Spring/Summer of 2024. 
+
+Lately I have been learning genome and protein analysis techniques, developing an [RNA-sequencing visualization toolkit](https://github.com/00raymond/visRNAseq) for FASTQ files and recording some of my [Rosalind solutions](https://github.com/00raymond/my-rosalind-solutions) on github.
+
+
+
+### -hobbies
+
+As a California Bay Area native, I love spending time on the beach either surfing or playing spikeball. During summer vacations, I enjoy water sports such as kayaking and paddleboarding in lakes at nearby mountains.
