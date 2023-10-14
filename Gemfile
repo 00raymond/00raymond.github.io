@@ -22,6 +22,8 @@ group :jekyll_plugins do
     # gem 'mini_racer', '0.7.0'
     gem 'unicode_utils'
     gem 'webrick'
+    source "https://rubygems.org"
+    gem "github-pages", "~> 229", group: :jekyll_plugins
 end
 group :other_plugins do
     gem 'feedjira'
