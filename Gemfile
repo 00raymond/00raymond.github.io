@@ -7,6 +7,9 @@ group :jekyll_plugins do
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-feed'
+    gem 'jekyll-seo-tag'
     gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
     gem 'jekyll-jupyter-notebook'
@@ -22,9 +25,8 @@ group :jekyll_plugins do
     # gem 'mini_racer', '0.7.0'
     gem 'unicode_utils'
     gem 'webrick'
-    source "https://rubygems.org"
-    gem "github-pages", "~> 228", group: :jekyll_plugins
-    gem 'jekyll-scholar'
+    gem "github-pages", "~> 228"
+    gem 'jekyll-scholar', '5.15.0'
 
 end
 group :other_plugins do
