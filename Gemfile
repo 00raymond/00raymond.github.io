@@ -15,7 +15,6 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'listen', '~> 3.3'
@@ -24,6 +23,7 @@ group :jekyll_plugins do
     gem 'webrick'
     # gem "github-pages", "~> 228"
     gem 'jekyll-scholar'
+    gem 'jekyll-toc'
 
 end
 group :other_plugins do
