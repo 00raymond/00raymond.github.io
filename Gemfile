@@ -8,7 +8,6 @@ group :jekyll_plugins do
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
-    gem 'jekyll-feed'
     gem 'jekyll-seo-tag'
     gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
@@ -16,7 +15,6 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-sitemap'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
@@ -24,8 +22,8 @@ group :jekyll_plugins do
     # gem 'mini_racer', '0.7.0'
     gem 'unicode_utils'
     gem 'webrick'
-    gem "github-pages", "~> 228"
-    gem 'jekyll-scholar', '5.15.0'
+    # gem "github-pages", "~> 228"
+    gem 'jekyll-scholar'
 
 end
 group :other_plugins do
