@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://00raymond.github.io//sitemap.xml
