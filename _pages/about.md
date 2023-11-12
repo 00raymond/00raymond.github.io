@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ![Philippines](assets/img/flag1.png)  ![Scotland](assets/img/flag2.png)
 ### -about me
 
-Hi, I'm Raymond House, a current third-year at ![UCI Logo](assets/img/uci_logo.png)[University of California, Irvine](https://ics.uci.edu/), and I am working towards my BSc in Software Engineering minoring in Bioinformatics. I'm currently an undergraduate reseacher at the [School of Medicine](https://medschool.uci.edu/) as well as a back-end software engineer intern at [NeuroLeap](https://neuroleap.com/). 
+Hi, I'm Raymond House, a current third-year at ![UCI Logo](assets/img/uci_logo.png)[University of California, Irvine](https://ics.uci.edu/), and I am working towards my BSc in Software Engineering. I'm currently an undergraduate reseacher at the [School of Medicine](https://medschool.uci.edu/) as well as a back-end software engineer intern at [NeuroLeap](https://neuroleap.com/). 
 
 During my research, I primarily worked with ![Java Logo](assets/img/java_icon.png)Java and ![Kotlin Logo](assets/img/kotlin_icon.png)Kotlin to contribute to the development of a CNN-based android app designed to assist Glaucoma patients identify medicine bottle labels and expiration dates, under the supervision of [Prof. Dr. Ken Lin](https://www.faculty.uci.edu/profile/?facultyId=6458). 
 
